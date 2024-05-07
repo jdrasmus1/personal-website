@@ -1,60 +1,61 @@
 ---
 # Display name
-title: 吳健雄
+title: Justin Rasmussen
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+''
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Justin
+last_name: Rasmussen
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Clinical Psychology PhD Candidate
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Duke University
+    url: https://scholars.duke.edu/person/justin.rasmussen
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I am fifth-year clinical psychology PhD student working with Dr. Eve Puffer. My primary research interests center on improving access to mental health care in East Africa through professional training and existing community structures. I'm especially interested in understanding the influence of cultural and social context on mental health promotion and intervention. My work has focused on mental illness stigma, collaborative psychosocial interventions with religious congregations, and lay counselor social support. Although not directly part of my research, I also spend a lot my free time learning about the history of psychiatry and research in Africa and trying to improve my Kiswahili.
+
+My teaching experience has included TA-ing graduate statistics and data science courses as well as an undergraduate psychopathology course. I try to teach in ways that emphasize flexible core paradigms that encourage students connect their current knowledge and empowers them to learn independently. I view academia as connected to wider communities and histories. I therefore try to use widely available technologies and engage students in critical thinking about the social, cultural, and historical context of scientific knowledge.
+
+I grew up in Tanzania and Kenya and got my bachelor’s degree in psychology from Macalester College in Saint Paul, Minnesota. After graduating, I worked with Massachusetts General Hospital for two and a half years as an on-site project coordinator for a longitudinal microenterprise, water security, health, and social network study in Mbarara, Uganda.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
+  - Global mental health
+  - Mental health access
   - Information Retrieval
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
+    - course: MA Clinical Psychology
+      institution: Duke University
+      year: 2022
+    - course: BA Psychology
+      institution: Macalester College
       year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 skills:
   - name: Technical
     items:
-      - name: Python
+      - name: R
         description: ''
         percent: 80
-        icon: python
+        icon: R
         icon_pack: fab
       - name: Data Science
         description: ''
